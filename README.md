@@ -13,8 +13,15 @@ It also reads the game's view matrix to transform 3D world coordinates into 2D s
 > ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
 
 
-| ![Image 1](https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/1.png?raw=true) | ![Image 2](https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/2.png?raw=true) |
-| ![Image 3](https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/3.png?raw=true) | ![Image 4](https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/4.png?raw=true) |
+<p align="center">
+  <img src="https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/1.png?raw=true" width="49%">
+  <img src="https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/2.png?raw=true" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/3.png?raw=true" width="49%">
+  <img src="https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/4.png?raw=true" width="49%">
+</p>
 
 ## 🧐 Features
 ### [Cheats]
