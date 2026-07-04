@@ -84,7 +84,7 @@ No additional third-party libraries are required.
 Note: Make sure the game is running in Windowed or Borderless Windowed mode so the overlay can be displayed correctly.
 ```
 ## ⚖️ Disclaimer
-> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
+> ⚠️ This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
 
 ## 🙇 Acknowledgements      
 - [OsImgui By Tkazer](https://github.com/TKazer/OS-ImGui)
