@@ -24,7 +24,6 @@ It also reads the game's view matrix to transform 3D world coordinates into 2D s
 </p>
 
 ## 🧐 Features
-
 ### [Esp Visuals]
 - Show Allies (Toggle On/Off)
 - Esp Preview Box (With real time change)
@@ -37,7 +36,6 @@ It also reads the game's view matrix to transform 3D world coordinates into 2D s
 - Show Name ESP
 - Hide Debug Console
 - Adjustable Circle Fov (With slider)
-
 ### [Movements]
 - Bunnyhop
 
@@ -51,28 +49,24 @@ It also reads the game's view matrix to transform 3D world coordinates into 2D s
 - Distance Color
 - Health Value Color
 - 2D Box / Corner Box Color
-
 #### Special Infected
 - Snapline Color
 - ESP Name Color
 - Distance Color
 - Health Value Color
 - 2D Box / Corner Box Color
-
 #### Tank
 - Snapline Color
 - ESP Name Color
 - Distance Color
 - Health Value Color
 - 2D Box / Corner Box Color
-
 #### Common Infected
 - Snapline Color
 - ESP Name Color
 - Distance Color
 - Health Value Color
 - 2D Box / Corner Box Color
-
 #### Other
 - Crosshair Color
 - Reset Colors to Default
