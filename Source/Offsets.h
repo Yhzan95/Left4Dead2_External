@@ -31,13 +31,13 @@ namespace Offsets
 	inline constexpr uintptr_t m_healthBuffer = 0x1FAC;
 	inline constexpr uintptr_t m_zombieState = 0x1C94;
 	inline constexpr uintptr_t m_isCulling = 0x1C98;
-	//plus tard
+	// Later
 	inline constexpr uintptr_t m_reviveOwner = 0x1F88;
 	inline constexpr uintptr_t m_reviveTarget = 0x1F8C;
 	inline constexpr uintptr_t m_useActionTarget = 0x1BA0;
 	inline constexpr uintptr_t m_useActionOwner = 0x1BA4;
 	inline constexpr uintptr_t m_iCurrentUseAction = 0x1BA8;
-	//inline constexpr uintptr_t m_bAdrenalineActive = 0x1FD8;
+	inline constexpr uintptr_t m_bAdrenalineActive = 0x1FD8;
 	inline constexpr uintptr_t m_isGhost = 0x1C9A;
 	inline constexpr uintptr_t m_hOwnerEntity = 0x138;
 	inline constexpr uintptr_t m_modelIndex = 0x638;
