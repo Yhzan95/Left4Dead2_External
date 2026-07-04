@@ -37,10 +37,10 @@ It also reads the game's view matrix to transform 3D world coordinates into 2D s
 - Show Name ESP
 - Hide Debug Console
 - Adjustable Circle Fov (With slider)
-  
+
 ### [Movements]
 - Bunnyhop
-  
+
 ### [Visuals]
 - Custom Crosshairs (Cross,dot,circle,Tcross)
 
