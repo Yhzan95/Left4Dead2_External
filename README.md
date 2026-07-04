@@ -10,9 +10,6 @@ For example, it can distinguish between Survivors, Special Infected (Smoker, Boo
 
 It also reads the game's view matrix to transform 3D world coordinates into 2D screen coordinates, allowing ESP elements such as 2D boxes, snaplines, health bars, names, and distance indicators to be rendered accurately on the overlay.<br>
 
-> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
-
-
 <p align="center">
   <img src="https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/1.png?raw=true" width="49%">
   <img src="https://github.com/Yhzan95/Left4Dead2_External/blob/main/Screenshots/2.png?raw=true" width="49%">
@@ -86,6 +83,8 @@ No additional third-party libraries are required.
 4) Enable or disable the desired features
 Note: Make sure the game is running in Windowed or Borderless Windowed mode so the overlay can be displayed correctly.
 ```
+## ⚖️ Disclaimer
+> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. Do **not** use it on VAC-secured or official servers, as doing so may result in a permanent ban.
 
 ## 🙇 Acknowledgements      
 - [OsImgui By Tkazer](https://github.com/TKazer/OS-ImGui)
