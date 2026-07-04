@@ -24,27 +24,60 @@ It also reads the game's view matrix to transform 3D world coordinates into 2D s
 </p>
 
 ## 🧐 Features
-### [Cheats]
-- Infinite Ammo
-- GodMod (Infinite Health)
+
+### [Esp Visuals]
+- Show Allies (Toggle On/Off)
+- Esp Preview Box (With real time change)
+- 2D Box ESP (Outlined)
+- 2D Box ESP (Corner Only)
+- Healthbar ESP
+- Healthbar Text
+- Distance ESP
+- Snapline ESP
+- Show Name ESP
+- Hide Debug Console
+- Adjustable Circle Fov (With slider)
+- 
+### [Movements]
+- Bunnyhop
+- 
 ### [Visuals]
-- Wireframe Wallhack
-- Asus Wallhack (Buggy)
-- Draw Decals
-- Luxels
-- Skeleton ESP
-- Minecraft Mod
-- Tracer ESP
-### [Debug]
-- Weapon Debug
-- Box Debug Entity
-- Draw Debug Overlay
-- Draw Render Box
-- Debug Vgui Panel
-- Draw Static Props
-- Draw World
-- Draw Footsteps
-### [CheatEngine table included]
+- Custom Crosshairs (Cross,dot,circle,Tcross)
+
+### [Custom Colors]
+
+#### Survivors
+- Snapline Color
+- ESP Name Color
+- Distance Color
+- Health Value Color
+- 2D Box / Corner Box Color
+
+#### Special Infected
+- Snapline Color
+- ESP Name Color
+- Distance Color
+- Health Value Color
+- 2D Box / Corner Box Color
+
+#### Tank
+- Snapline Color
+- ESP Name Color
+- Distance Color
+- Health Value Color
+- 2D Box / Corner Box Color
+
+#### Common Infected
+- Snapline Color
+- ESP Name Color
+- Distance Color
+- Health Value Color
+- 2D Box / Corner Box Color
+
+#### Other
+- Crosshair Color
+- Reset Colors to Default
+
 
 ## 🛠️ Install Dependencies
 ```bash
